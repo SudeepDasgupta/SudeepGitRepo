@@ -6,6 +6,7 @@ import junit.framework.TestSuite;
 
 /**
  * Unit test for simple App.
+ * Made changes to the file to test gitrepo
  */
 public class AppTest 
     extends TestCase
